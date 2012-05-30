@@ -364,7 +364,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -797,7 +797,7 @@ section {
   margin: 20px 0;
   margin-top: 190px;
   position: relative;
-  background: #fbfbfb;
+  background: #fbfbfb url("../images/pypug.png") no-repeat 490px 30px;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   -o-border-radius: 3px;
