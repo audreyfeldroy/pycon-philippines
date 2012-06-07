@@ -1011,4 +1011,6 @@ footer {
 
 /* Custom styles for PyCon Philippines */
 
-#pypug-logo {float:right;margin:0 14px 0 14px;}
+#phpug-logo {
+  float: right;
+}
