@@ -768,6 +768,9 @@ header p {
   text-transform: uppercase;
   text-shadow: rgba(255, 255, 255, 0.2) 0 1px 0;
 }
+#banner .downloads span a, #banner .downloads span a:visited {
+  color: #2233A1;
+}
 #banner ul {
   list-style: none;
   height: 40px;
