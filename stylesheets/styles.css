@@ -973,11 +973,21 @@ footer {
   }
 
   #banner {
-    display: none;
+    display: inline-block;
+    position: relative;
+    top: 4px;
+    height: 30px;
   }
 
-  header ul {
-    display: none;
+  #banner .downloads {
+    margin: 0 4px;
+    float: none;
+  }
+
+  #banner .downloads span {
+    font-size: 88%;
+    line-height: 31px;
+    float: none;
   }
 }
 @media print {
@@ -998,9 +1008,6 @@ footer {
   }
 }
 @media print, screen and (max-height: 480px) {
-  nav {
-    display: none;
-  }
 
   footer {
     text-align: center;
